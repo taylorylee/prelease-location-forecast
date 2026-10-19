@@ -1,0 +1,3 @@
+site_id,address,lat,lon,naics,category,status,opened_on,registry_id
+S01,REPLACE with real address,37.7600,-122.4190,722515,cafe,vacant,,
+S02,REPLACE with real address,37.7870,-122.4070,448140,apparel,new_open,2026-09-15,
